@@ -1,0 +1,22 @@
+
+h1, h2, h3, h4, ul, ol, p {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ffffff;
+  }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%
+}
+div {
+  align-self: start;
+}
+body {background-color:  #737373}
+
+hr {
+  color: #ffffff;
+  }
